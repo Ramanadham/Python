@@ -1,0 +1,5 @@
+#  This is first command
+spam = 1  # this is test
+text = "# This is text sample in python"
+print(text)
+
